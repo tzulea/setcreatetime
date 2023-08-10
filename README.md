@@ -9,7 +9,7 @@ This utility function does not depened on additional libraries and can be used s
 No need to download xcode comand line tools.
 
 # Run published releas
-1. from releases download setcreatetime file
+1. Download the exectuable file: https://github.com/tzulea/setcreatetime/releases/download/first/setcreatetime
 2. open terminal on osx
 3. go to the downloaded file
 4. run following comand: ./setcreatime -p <your_path> - t <YYYYMMDDHH>
