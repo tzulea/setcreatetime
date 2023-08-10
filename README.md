@@ -8,6 +8,14 @@ This utility function does not depened on additional libraries and can be used s
 
 No need to download xcode comand line tools.
 
+#Run published releas
+1. from releases download setcreatetime file
+2. open terminal on osx
+3. go to the downloaded file
+4. run following comand: ./setcreatime -p <your_path> - t <YYYYMMDDHH>
+
+example: ./setcreatime -p /Users/squirrel/Downloads/time -t 2002030308
+
 #Build
 1. clone repo
 2. go to source files
